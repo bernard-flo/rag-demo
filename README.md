@@ -1,5 +1,7 @@
 # rag-demo
 
+* Prepare
+    * Copy file `.env.sample` to `.env` and fill `OPENAI_API_KEY` value 
 * Run
     ```shell
     % pip install -r requirements.txt
